@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Quiz-MAD</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">The small intestine is about three-and-a-half times the length of your body.</string>
+    <string name="question_2">The black box in a plane is black.</string>
+    <string name="question_3">Approximately one quarter of human bones are in the feet.</string>
+    <string name="question_4">Coffee is made from berries</string>
+    <string name="question_5">In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.</string>
+    <string name="question_6"> Queen Elizabeth II is currently the second longest reigning British monarch.</string>
+    <string name="question_7">Harry Styles\'s middle name is Edward.</string>
+    <string name="question_8">You can lead a cow down stairs but not up stairs.</string>
+    <string name="question_9">Google was originally called \"Backrub\".</string>
+    <string name="question_10">Thomas Edison discovered gravity.</string>
+    <string name="question_11">The Great Wall of China is longer than the distance between London and Beijing.</string>
+    <string name="question_12">In Finding Nemo the protagonist is a pufferfish.</string>
+    <string name="question_13">Cardi B\'s real name is Cardigan Backyardigan.</string>
+</resources>
